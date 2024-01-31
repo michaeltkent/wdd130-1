@@ -2,3 +2,14 @@ body{
     background-color: pink;
 }
 
+main{
+    text-align: center;
+}
+
+.center{
+    display: : block;
+    margin: 0 auto;
+}
+
+
+
