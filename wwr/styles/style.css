@@ -4,7 +4,7 @@
 }
 nav a {
     text-align: center;
-    color: aqua;
+    color: #de6b48;
     text-decoration: none;
 }
 #hero-msg h1, #hero-msg h4 {
@@ -20,58 +20,58 @@ main section {
     height: 725px;
 }
 body {
-    background-color: #fcfcfb;
-    color: aqua;
+    background-color: lightgray;
+    color: #de6b48;
 }
 header {
-    background-color: #ffffff;
-    color: aqua;
+    background-color: lightblue;
+    color: #de6b48;
 }
 nav a:hover {
-    background-color: black;
-    color: aquamarine;
+    background-color: lightgray;
+    color: #de6b48;
 }
 h4 {
-    background-color: aqua;
-    color: aqua;
+    background-color: lightgray;
+    color: #de6b48;
 }
 .book, .join {
-    background-color: #ffffff;
-    color: aqua;
+    background-color: lightgray;
+    color: #de6b48;
     text-decoration: none;
 }
 .book:hover, .join:hover {
-    background-color: #fcfcfb;
-    color: aqua;
+    background-color: lightgray;
+    color: #de6b48;
 }
 .msg h2 {
-    background-color: #fcfcfb;
-    color: #fcfcfb;
+    background-color: lightgray;
+    color: #de6b48;
 }
 .msg p {
-    background-color: #fcfcfb;
-    color: #fcfcfb;
+    background-color: lightgray;
+    color: #de6b48;
 }
 #background {
-    background-color: #fcfcfb;
-    color: aqua;
+    background-color: lightgray;
+    color: #de6b48;
 }
 .msg {
-    background-color: firebrick;
-    color: aqua;
+    background-color: lightgray;
+    color: #de6b48;
 }
 footer {
-    background-color: #ffffff;
-    color: aqua;
+    background-color: lightgray;
+    color: #de6b48;
 }
 footer a {
-    background-color: #fcfcfb;
-    color: #fcfcfb;
+    background-color: lightgray;
+    color: #de6b48;
     text-decoration: none;
 }
 footer a:hover {
-    background-color: #fcfcfb;
-    color: #fcfcfb;
+    background-color: lightgray;
+    color: #de6b48;
 }
 footer p {
     font-size: 1.2em;
