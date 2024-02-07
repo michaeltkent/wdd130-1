@@ -58,7 +58,7 @@ h4 {
     color: #de6b48;
     text-decoration: none;
     font-size: 18px;
-    padding: 15px, 30px;
+    padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
 }
@@ -75,7 +75,7 @@ h4 {
     background-color: lightgray;
     color: #de6b48;
     font-size: .8em;
-    padding-bottom: 15 px;
+    padding-bottom: 15px;
 }
 #background {
     background-color: lightgray;
@@ -99,7 +99,7 @@ h4 {
 footer {
     background-color: lightgray;
     color: #de6b48;
-    padding: 25px, 50px;
+    padding: 25px 50px;
     margin-top: 200px;
 }
 footer a {
