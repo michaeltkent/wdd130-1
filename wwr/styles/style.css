@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Rock+Salt&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -19,9 +21,14 @@ main section {
 #background {
     height: 725px;
 }
+.home-title {
+    font-family: 'Rocksalt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
 body {
     background-color: lightgray;
     color: #de6b48;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
 }
 header {
     background-color: lightblue;
@@ -39,6 +46,7 @@ h4 {
     background-color: lightgray;
     color: #de6b48;
     text-decoration: none;
+    font-size: 18px;
 }
 .book:hover, .join:hover {
     background-color: lightgray;
@@ -47,10 +55,12 @@ h4 {
 .msg h2 {
     background-color: lightgray;
     color: #de6b48;
+    font-family: 'Rocksalt', Arial, Helvetica, sans-serif;
 }
 .msg p {
     background-color: lightgray;
     color: #de6b48;
+    font-size: .8em;
 }
 #background {
     background-color: lightgray;
