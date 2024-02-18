@@ -1,0 +1,14 @@
+.gridcontainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.two-column-heading{
+    grid-column: 1/3;
+    grid-row: 1/3;
+    text-align: center;
+    justify-items: stretch;
+}
+.first-two-rows{
+    grid-column: 1/2;
+    grid-row: 1/3;
+}
