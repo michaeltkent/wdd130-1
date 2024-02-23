@@ -42,7 +42,6 @@ h2 {
     margin: 0;
 }
 header {
-    background-color: lightblue;
     color: #de6b48;
     display: grid;
     grid-template-columns: 150px auto;
@@ -56,7 +55,7 @@ nav a:hover {
     color: #de6b48;
 }
 h4 {
-    color: lightskyblue;
+    color: #de6b48;
 }
 .book, .join {
     background-color: whitesmoke;
