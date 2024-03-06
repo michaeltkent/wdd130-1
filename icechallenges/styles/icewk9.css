@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+.card {
+    width: 250 px;
+    margin: 0 auto;
+    background-color: white;
+}
+.headerimage {
+    width: 100%;
+}
+.awesomearticle {
+    padding: 10%;
+    text-align: center;
+    color: grey;
+}
+.threeweeksago {
+    text-align: center;
+    color: blue;
+}
+.postthree {
+    text-align: center;
+    color: black;
+}
+.footer {
+    background-color: blue;
+}
