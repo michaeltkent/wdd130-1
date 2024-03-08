@@ -193,6 +193,39 @@ footer .social img {
     opacity: .6;
     transform: scale(1.1);
 }
+#rapids_boat {
+    width: 100%;
+    height: 575px;
+}
+#canyon {
+    width: 80%;
+    padding: 10%;
+}
+#first {
+    margin: 0;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 800;
+    padding-left: 35%;
+    padding-bottom: 50px;
+    color: black;
+}
+.places_to_raft {
+    padding-left: 5%;
+    padding-bottom: 25px;
+    color: #4b7b81;
+}
+.rivers_content {
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
